@@ -7,3 +7,5 @@ The next line will contain a single integer k - the number of flight connections
 For each query, output one line. At the beginning of the line should be the number representing the shortest travel time between the cities. If the query has a type of one, all intermediate cities (excluding the starting and ending cities) should also be listed in the order they were visited, separated by spaces.
 
 Test cases are avaiable in separate files.
+
+Program was created in objective way.
